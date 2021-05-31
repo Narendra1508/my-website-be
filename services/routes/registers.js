@@ -92,7 +92,7 @@ var response = {
 		"Principals of Statistical Modeling",
 		"Probability and Statistics",
 		"Linear Algebra",
-		"Data Security"
+		"Data Security",
 		"Image Processing"],
       startdate:"15.09.2019",
       enddate:"30.11.2021",
