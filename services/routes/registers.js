@@ -108,17 +108,16 @@ var response = {
     }
   ],
   skills2:[
-    {name:"Concepts",info:"Object Oriented Programming, Data Structures & Algorithms, Business Intelligence",level:"" },
-    {name:"Data Science", info:"Scikit-learn, TesnsorFlow, Keras, Deep Learning, Machine Learning",level:"" },
-    {name:"Data Analysis", info:"Numpy, Pandas, Matplotlib, Seaborn",level:"" },
+    {name:"Concepts",info:"Object Oriented Programming, Business Intelligence",level:"" },
+    {name:"Data Science", info:"Machine Learning, Deep Learning, Scikit-learn, TesnsorFlow, Keras",level:"" },
+    {name:"Data Analysis", info:"Numpy, Pandas, Matplotlib, Seaborn, dplyr",level:"" },
     {name:"Cloud services",info:"Microsoft Azure, AWS",level:"" }
   ],
   skills1:[
     {name:"Programming Laungages", info:"Python, R, PySpark, Scala, NodeJS, HTML, CSS",level:"" },
     {name:"Relational Databases",info:"MySQL, PostgreSQL, DB2, Oracle, MS SQL server",level:"" },
     {name:"Non-Relational Databases",info:"Elasticsearch, MongoDB, Azure Cosmos DB",level:"" },
-    {name:"ETL tools",info:"Informatica, Ab Initio, Azure Data Factory",level:"" },
-    {name:"Data Engineering", info:"Spark, Hadoop, Airflow",level:"" }
+    {name:"Data Engineering",info:"Spark, Hadoop, Informatica, Ab Initio, Azure Data Factory",level:"" }
   ],
   courses:[
     {
