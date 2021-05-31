@@ -16,7 +16,7 @@ var response = {
       type:"Internship",
       company:"Munich RE",
       location:"Munich, Germany",
-      startdate:"15.09.2020",
+      startdate:"September 2020",
       enddate:"Present",
       tasks:["Built data pipelines for standardization of cyber insurance data using internal ETL tool, R, Azure SQL, azure data lake and REST API.",
 	"Automated data preparation steps using R scripts that drive the pricing/risk assessment models, which previously required manual intervention, now saving 90% of the time approximately.",
@@ -29,8 +29,8 @@ var response = {
       type:"Student Job",
       company:"Jacobs University Bremen",
       location:"Bremen, Germany",
-      startdate:"01.02.2021",
-      enddate:"31.05.2020",
+      startdate:"February 2021",
+      enddate:"May 2021",
       tasks:["Teaching Assistant (Principles of statistical modeling) – Involved in creating, evaluating assignments, and conducting tutorials."]
     },
 	{
@@ -38,8 +38,8 @@ var response = {
       type:"Student Job",
       company:"Jacobs University Bremen",
       location:"Bremen, Germany",
-      startdate:"01.07.2020",
-      enddate:"01.09.2020",
+      startdate:"July 2020",
+      enddate:"September 2020",
       tasks:["This project in Data Engineering builds on research projects on the stability of electricity grids, in particular the joint research initiative ConDyNet funded by BMBF http://www.condynet.de",
 	"Time series analysis of the wind infeed on the phase angle of the power stations.",
 	"Forecast the phase angle (direction of power flow) between two power stations using LSTM."]
@@ -49,8 +49,8 @@ var response = {
       type:"Full-Time",
       company:"Infosys Limited",
       location:"Bengaluru, India",
-      startdate:"31.05.2018",
-      enddate:"10.09.2019",
+      startdate:"June 2018",
+      enddate:"September 2019",
       tasks:["Developed monthly batch processing services on hadoop data lake to provision the data for reporting of consumer credit card acquisition and profitability using Informatica.",
 	"Improved the performance of unit testing of ETL jobs by 40%, utilizing hive queries over SQL queries.",
 	"Organizing meetings with clients to discuss functional, non-functional business requirements and translating them into ETL design document.",
@@ -62,8 +62,8 @@ var response = {
       type:"Full-Time",
       company:"Infosys Limited",
       location:"Bengaluru, India",
-      startdate:"01.06.2017",
-      enddate:"31.05.2018",
+      startdate:"June 2017",
+      enddate:"May 2018",
       tasks:["Successfully implemented the automated distribution on hadoop data lake and data delivery to the SAS server with data lineage and control validations as required by the CCAR-A (Comprehensive Capital Analysis and Review -Annual) models.",
 	"Eliminated the earlier manual process for monthly data extraction by creating ingestion framework for all the data sources to bring into data lake using Ab Initio, bash scripts and CA7 job scheduler.",
 	"The standardized generic design is sustainable and can be extended to any new application to be built in the date lake. This reduced the data governance cost for client by 60%.",
@@ -74,8 +74,8 @@ var response = {
       type:"Trainee",
       company:"Infosys Limited",
       location:"Mysuru, India",
-      startdate:"26.12.2016",
-      enddate:"31.05.2017",
+      startdate:"December 2016",
+      enddate:"May 2017",
       tasks:["Fundamentals of programming using Python, OOPs, Data Structures.",
 	"Business Intelligence concepts, DBMS, Informatica and IBM Cognos."]
     },
@@ -94,101 +94,92 @@ var response = {
 		"Linear Algebra",
 		"Data Security",
 		"Image Processing"],
-      startdate:"15.09.2019",
-      enddate:"30.11.2021",
-      location:"Jena, Germany"
+      startdate:"September 2019",
+      enddate:"Present",
+      location:"Bremen, Germany"
     },
     {
       school:"Visvesvaraya Technological University",
       degree:"Bachelors of Engineering in Electrical and Electronics",
       subjects:["Programming in C++", "Eletrical Power Generation", "Transmission and Distribution"],
-      startdate:"01.08.2012",
-      enddate:"01.07.2016",
+      startdate:"July 2012",
+      enddate:"July 2016",
       location:"Bengaluru, India"
     }
   ],
   skills2:[
-    {name:"Concepts",info:"Object Oriented Programming, Data Structures & Algorithms",level:"" },
-    {name:"Frontend Technologies",info:"VueJS, ReactJS, HTML, CSS",level:"" },
-    {name:"Designing Tool",info:"Photoshop",level:"" },
-    
+    {name:"Concepts",info:"Object Oriented Programming, Data Structures & Algorithms, Business Intelligence",level:"" },
+    {name:"Data Science", info:"Scikit-learn, TesnsorFlow, Keras, Deep Learning, Machine Learning",level:"" },
+    {name:"Data Analysis", info:"Numpy, Pandas, Matplotlib, Seaborn",level:"" },
+    {name:"Cloud services",info:"Microsoft Azure, AWS",level:"" }
   ],
   skills1:[
     {name:"Programming Laungages", info:"Python, R, PySpark, Scala, NodeJS, HTML, CSS",level:"" },
-    {name:"Databases",info:"MySQL, PostgreSQL, NOSQL (Elasticsearch and MongoDB)",level:"" },
-    {name:"Data Science", info:"Scikit-learn, TesnsorFlow, Keras, Deep Learning, Machine Learning",level:"" },
-    {name:"Data Analysis", info:"Numpy, Pandas, Matplotlib, Seaborn",level:"" },
-	{name:"Data Engineering", info:"Spark, Hadoop, Azure, Informatica, Ab Initio, Power BI",level:"" },
-    
+    {name:"Relational Databases",info:"MySQL, PostgreSQL, DB2, Oracle, MS SQL server",level:"" },
+    {name:"Non-Relational Databases",info:"Elasticsearch, MongoDB, Azure Cosmos DB",level:"" },
+    {name:"ETL tools",info:"Informatica, Ab Initio, Azure Data Factory",level:"" },
+    {name:"Data Engineering", info:"Spark, Hadoop, Airflow",level:"" }
   ],
   courses:[
     {
-      name:"Machine Learning A-Z™: Hands-On Python In Data Science",
-      instructor:"Kirill Eremenko & Hadelin de Ponteves",
-      institute:"Udemy",
-      topics:["Data Preprocessing, Regression, Classification, Clustering, NLP, Neural Networks",],
-      startdate:"09.10.2019",
-      enddate:"30.11.2021",
+      name:"Microsoft Certified: Azure Data Fundamentals",
+      instructor:"",
+      institute:"",
+      topics:[""],
+      startdate:"",
+      enddate:"May 2021",
       location:"Online",
     },
     {
-      name:"Complete Guide to Image Processing with MATLAB",
-      instructor:"Fawaz Sammani",
-      institute:"Udemy",
-      topics:["Theory of Image Processing, apply it in MATLAB, and design a GUI to interface it!"],
-      startdate:"09.10.2019",
-      enddate:"30.11.2021",
+      name:"Microsoft Certified: Azure Fundamentals",
+      instructor:"",
+      institute:"",
+      topics:[""],
+      startdate:"",
+      enddate:"April 2021",
       location:"Online",
     },
+    {
+      name:"Sequences, Time Series and Prediction",
+      instructor:"Laurence Moroney",
+      institute:"Coursera",
+      topics:["Solve time series and forecasting problems in TensorFlow"],
+      startdate:"",
+      enddate:"March 2021",
+      location:"Online",
+    }
   ],
   projects:[
     {
-      name:"Circuit Design for Band Gap Reference and Low Drop Regulator in Cadence Virtuosso",
-      team:"Kirill Eremenko & Hadelin de Ponteves",
-      technology:"Cadence Virtuosso",
-      topics:["Designing BGR with a target output voltage of 1.2V with a maximum variation of 75mV as specs with Monte Caro Simulation. For LDO, targetting of 5 mA as load current for MPHY driver."],
-      startdate:"09.10.2019",
-      enddate:"30.11.2021",
+      name:"Analysis and forecast of automatic frequency restoration reserve market",
+      team:"",
+      technology:"Master Thesis",
+      topics:["A data driven approach to assess the impact of integration of renewable energy to the Germany’s power grid and predict the trend breaks in the aFRR time series data and comparing various ML models."],
+      startdate:"February 2021",
+      enddate:"July 2021",
       location:"Online",
     },
   ],
   awards:[
     {
-      name:"Insta Award for Continuous and Outstanding Contribution to the Team (Infosys Limited)",
-      year:"2019",
-    },
-    {
-      name:"“Game Changers” award for remarkable accomplishments in CCAR-A Project (Infosys Limited).",
+      name:"'Insta' award for outstanding contributions to the cards portal project (Infosys Limited)",
       year:"2018",
     },
     {
-      name:"Best All Rounder Award/Best Outgoing Student in High School",
-      year:"2012",
+      name:"'Game Changers' award for remarkable accomplishments in CCAR-A Project (Infosys Limited)",
+      year:"2018",
     },
     {
-      name:"Elected as Head Boy of School and President of the Science Club",
-      year:"2010-2012",
-    },
+      name:"'Best Debutant' award for my contribution to the company (Infosys Limited)",
+      year:"2017",
+    }
   ],
-  activities:[
-    {
-      name:"Imparting computer-based knowledge to underprivileged students.",
-    },
-    {
-      name:"Organized various cultural, technical events through out School and College",
-    },
-    {
-      name:"Skilled Graphics Designer.",
-    },
-    {
-      name:"Athletic (Long Distance Runner), Basketball Player, Movie Making, Painting",
-    },
-  ],
+
   contacts:[
     
-    {url:'mailto:shanmukha.krish123@gmail.com', icon:'mdi-gmail'},
-        {url:'https://www.linkedin.com/in/shanmukha-m-s/', icon:'mdi-linkedin'},
-        {url:'https://github.com/shanmukhams', icon:'mdi-github'},
+    {url:'mailto:narendra.hosamani@gmail.com', icon:'mdi-gmail'},
+        {url:'https://www.linkedin.com/in/narendra1508/', icon:'mdi-linkedin'},
+        {url:'https://github.com/Narendra1508', icon:'mdi-github'},
         
   ]
 }
