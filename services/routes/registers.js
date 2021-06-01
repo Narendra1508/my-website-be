@@ -111,7 +111,7 @@ var response = {
     {name:"Concepts",info:"Object Oriented Programming, Business Intelligence",level:"" },
     {name:"Data Science", info:"Machine Learning, Deep Learning, Scikit-learn, TesnsorFlow, Keras",level:"" },
     {name:"Data Analysis", info:"Numpy, Pandas, Matplotlib, Seaborn, dplyr",level:"" },
-    {name:"Cloud services",info:"Microsoft Azure, AWS",level:"" }
+    {name:"Cloud services",info:"Microsoft Azure, AWS, Heroku",level:"" }
   ],
   skills1:[
     {name:"Programming Laungages", info:"Python, R, PySpark, Scala, NodeJS, HTML, CSS",level:"" },
@@ -124,7 +124,7 @@ var response = {
       name:"Microsoft Certified: Azure Data Fundamentals",
       instructor:"",
       institute:"Microsoft",
-      topics:[""],
+      topics:["Azure data fundamentals provides an overview of how to work with data in the cloud and the concepts of relational and non-relational data, and different types of data workloads such as transactional or analytical."],
       startdate:"",
       enddate:"05/2021",
       location:"Online",
@@ -133,7 +133,7 @@ var response = {
       name:"Microsoft Certified: Azure Fundamentals",
       instructor:"",
       institute:"Microsoft",
-      topics:[""],
+      topics:["Azure Fundamentals exam is an opportunity to prove knowledge of cloud concepts, Azure services, Azure workloads, security and privacy in Azure, as well as Azure pricing and support."],
       startdate:"",
       enddate:"04/2021",
       location:"Online",
